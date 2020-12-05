@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/sher-s7/express-mongo-auth#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
